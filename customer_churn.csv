@@ -1,0 +1,11 @@
+CustomerID,Gender,SubscriptionType,MonthlyCharges,Tenure,Churn
+1001,Male,Premium,899,12,Yes
+1002,Female,Basic,499,24,No
+1003,Male,Standard,699,8,Yes
+1004,Female,Premium,999,36,No
+1005,Male,Basic,399,5,Yes
+1006,Female,Standard,650,18,No
+1007,Male,Premium,1099,30,No
+1008,Female,Basic,450,6,Yes
+1009,Male,Standard,750,20,No
+1010,Female,Premium,1200,40,No
